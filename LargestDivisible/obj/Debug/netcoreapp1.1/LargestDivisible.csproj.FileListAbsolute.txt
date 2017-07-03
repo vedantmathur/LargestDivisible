@@ -1,0 +1,10 @@
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/bin/Debug/netcoreapp1.1/LargestDivisible.deps.json
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/bin/Debug/netcoreapp1.1/LargestDivisible.runtimeconfig.json
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/bin/Debug/netcoreapp1.1/LargestDivisible.runtimeconfig.dev.json
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/bin/Debug/netcoreapp1.1/LargestDivisible.dll
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/bin/Debug/netcoreapp1.1/LargestDivisible.pdb
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/obj/Debug/netcoreapp1.1/LargestDivisible.csprojResolveAssemblyReference.cache
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/obj/Debug/netcoreapp1.1/LargestDivisible.csproj.CoreCompileInputs.cache
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/obj/Debug/netcoreapp1.1/LargestDivisible.AssemblyInfo.cs
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/obj/Debug/netcoreapp1.1/LargestDivisible.dll
+/Users/vedantmathur/Code/C#/LargestDivisible/LargestDivisible/obj/Debug/netcoreapp1.1/LargestDivisible.pdb
